@@ -1,6 +1,7 @@
 ### Hi there 👋
-I'm a Naval architecture engineer with a passion for artificial intelligence and programming. With extensive experience in both fields, I'm dedicated to developing innovative solutions that push the boundaries of what's possible.
+I’m a Naval Architect with a passion for using programming and AI to tackle challenges in the maritime industry. My focus is on blending traditional naval architecture with modern technology to improve ship design, performance, and efficiency. By integrating AI into my work, I aim to create smarter solutions for the future of naval engineering.
 
+I enjoy combining my technical skills in programming with my background in naval architecture, always looking for new ways to innovate and enhance maritime systems. Whether it's optimizing design or solving complex problems, I’m driven by the potential of AI and digital tools in the industry.
 - 📫 How to reach me **poorya.khorsandyofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
